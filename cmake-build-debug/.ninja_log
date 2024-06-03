@@ -1,0 +1,8 @@
+# ninja log v6
+2062	2282	7388021333420946	file_mapppig.exe	4dc645892a5f36a8
+8	362	7388042587135583	build.ninja	e42c0df2b7ce8ebd
+2	132	7388042621491751	CMakeFiles/file_mapping.dir/src/main.c.obj	678f0f87fac91230
+17	1418	7388042621641107	CMakeFiles/file_mapping.dir/src/read_file.c.obj	ab7e5c56ab096243
+7	1763	7388042621541364	CMakeFiles/file_mapping.dir/src/print_error.c.obj	f788e1944ef69a0f
+11	1848	7388042621581294	CMakeFiles/file_mapping.dir/src/create_file.c.obj	d98a17b272fcf3ea
+1848	1953	7388042639949165	file_mapping.exe	fd87be499923a144
